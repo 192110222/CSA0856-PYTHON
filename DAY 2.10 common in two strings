@@ -11,3 +11,10 @@ def removeCommonWords(sent1,sent2):
 sentence1 = input("Enter string1: ")
 sentence2 = input("Enter string2: ")
 removeCommonWords(sentence1,sentence2)
+
+
+Output:
+Enter string1: The sky is blue in color
+Enter string2: Raj likes blue color
+The sky is in
+Raj like
